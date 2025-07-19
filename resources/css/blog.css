@@ -77,10 +77,12 @@
 }
 @font-face {
     font-family: 'Ubuntu';
-    src: url('/resources/fonts/OperatorMono-LightItalic.otf');
+    src:url("../fonts/OperatorMono-LightItalic.otf");
     /* font-weight: normal;
     font-style: normal; */
 }
+
+
 body {
    font-family: 'Ubuntu', sans-serif; /* Application de la police */
     background-color: var(--background-color);

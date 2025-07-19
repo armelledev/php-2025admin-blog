@@ -22,13 +22,13 @@ navbar<!-- resources/views/layouts/blog-layout/blog-navbar_html.php -->
         <!-- Menu d'authentification -->
         <ul class="auth-menu">
             <li class="auth-item">
-                <a href="/login.php" class="auth-link">
+                <a href="login.php" class="auth-link">
                     <i class='bx bxs-user-circle icon'></i>
                     <span>Se connecter</span>
                 </a>
             </li>
             <li class="auth-item">
-                <a href="/register.php" class="auth-link">
+                <a href="register.php" class="auth-link">
                     <i class='bx bxs-user-plus icon'></i>
                     <span>S'enregistrer</span>
                 </a>

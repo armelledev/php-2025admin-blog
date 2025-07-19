@@ -36,5 +36,6 @@ footer <footer>
     </footer>
   
   
-  <script src="/resources/js/blog.js"></script>
-  <script src="/resources/js/apexcharts.js"></script>
+  <script src="resources/js/blog.js"></script>
+  <script src="resources/js/apexcharts.js"></script>
+  <script src="resources/js/particul.js"></script>
